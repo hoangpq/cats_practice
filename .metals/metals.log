@@ -1,0 +1,93 @@
+2023.02.17 22:27:03 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hoangpq/coding/untitled/.metals/lsp.trace.json or /Users/hoangpq/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2023.02.17 22:27:04 INFO  logging to file /Users/hoangpq/coding/untitled/.metals/metals.log[0m
+2023.02.17 22:27:04 INFO  Started: Metals version 0.11.10 in workspace '/Users/hoangpq/coding/untitled' for client Sublime Text LSP 1.22.0.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/hoangpq/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.17 22:27:06 INFO  time: initialize in 1.67s[0m
+2023.02.17 22:27:06 INFO  shutting down Metals[0m
+2023.02.17 22:27:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hoangpq/coding/untitled/.metals/lsp.trace.json or /Users/hoangpq/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2023.02.17 22:27:10 INFO  logging to file /Users/hoangpq/coding/untitled/.metals/metals.log[0m
+2023.02.17 22:27:10 INFO  Started: Metals version 0.11.10 in workspace '/Users/hoangpq/coding/untitled' for client Sublime Text LSP 1.22.0.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/hoangpq/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.17 22:27:11 INFO  time: initialize in 1.66s[0m
+2023.02.17 22:27:11 WARN  Build server is not auto-connectable.[0m
+2023.02.17 22:27:11 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:27:14 INFO  running '/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/69/r_nh2ysj7sj71dnl2ybgbq1r0000gn/T/metals1722533362442224616/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.02.17 22:27:17 INFO  [info] welcome to sbt 1.8.2 (Oracle Corporation Java 1.8.0_211)[0m
+2023.02.17 22:27:20 INFO  no build target found for /Users/hoangpq/coding/untitled/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.1[0m
+2023.02.17 22:27:22 INFO  [info] loading settings for project global-plugins from idea.sbt ...[0m
+2023.02.17 22:27:24 INFO  [info] loading global plugins from /Users/hoangpq/.sbt/1.0/plugins[0m
+2023.02.17 22:27:25 INFO  shutting down Metals[0m
+2023.02.17 22:27:25 INFO  time: code lens generation in 13s[0m
+2023.02.17 22:27:25 INFO  time: ran 'sbt bloopInstall' in 11s[0m
+2023.02.17 22:27:25 ERROR sbt command failed: /Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/69/r_nh2ysj7sj71dnl2ybgbq1r0000gn/T/metals1722533362442224616/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall[0m
+2023.02.17 22:27:25 INFO  time: code lens generation in 1.27s[0m
+2023.02.17 22:27:25 INFO  time: code lens generation in 5.08s[0m
+2023.02.17 22:27:25 INFO  time: code lens generation in 5.1s[0m
+2023.02.17 22:27:25 INFO  time: code lens generation in 10s[0m
+2023.02.17 22:27:25 INFO  time: code lens generation in 12s[0m
+2023.02.17 22:27:29 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hoangpq/coding/untitled/.metals/lsp.trace.json or /Users/hoangpq/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2023.02.17 22:27:30 INFO  logging to file /Users/hoangpq/coding/untitled/.metals/metals.log[0m
+2023.02.17 22:27:30 INFO  Started: Metals version 0.11.10 in workspace '/Users/hoangpq/coding/untitled' for client Sublime Text LSP 1.22.0.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/hoangpq/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.17 22:27:33 INFO  time: initialize in 2.76s[0m
+2023.02.17 22:27:37 INFO  no build target found for /Users/hoangpq/coding/untitled/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.2.1[0m
+2023.02.17 22:27:43 INFO  time: code lens generation in 10s[0m
+2023.02.17 22:27:57 WARN  Build server is not auto-connectable.[0m
+2023.02.17 22:27:57 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:27:57 INFO  skipping build import with status 'Failed'[0m
+2023.02.17 22:28:19 WARN  no build target for: /Users/hoangpq/coding/untitled/build.sbt[0m
+2023.02.17 22:28:32 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:28:34 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:28:37 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:28:43 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:28:54 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:30:56 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:31:13 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:31:18 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:31:20 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:31:26 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:31:31 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:32:51 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:32:51 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:32:54 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:32:54 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:33:06 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:34:54 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:35:53 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:35:57 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:36:06 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:36:15 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:36:36 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:36:45 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:37:30 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:37:49 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:37:54 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:38:35 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:38:39 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:39:26 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:39:51 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:39:55 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:40:15 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:40:23 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:40:25 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:40:27 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:41:25 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:41:59 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.17 22:42:10 WARN  no build target for: /Users/hoangpq/coding/untitled/src/main/scala/Main.scala[0m
+2023.02.18 14:54:54 INFO  time: code lens generation in 1.47s[0m
+2023.02.18 14:55:00 INFO  shutting down Metals[0m
